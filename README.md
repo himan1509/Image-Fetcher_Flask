@@ -20,7 +20,9 @@ Built with ❤️ by **Himanshu Garg**.
     Command to use :-  
     pip install -r requirements.txt
   
-  2. Run python app.py  
+  2. Run app.py using below command
+    Command to use :-
+    python app.py  
     Then open your browser and go to: http://127.0.0.1:5000
 
 ## Usage
