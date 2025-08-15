@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Fetcher Tool</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Image Fetcher Tool</h1>
+    <p><strong>Only use URLs of content you own or that is public domain / openly licensed. 
+    The site owner is not responsible for misuse.</strong></p>
+    
+    <form method="POST">
+        <label>Website URL:</label>
+        <input type="text" name="url" placeholder="Enter website URL" required>
+        <label>Max Width (optional):</label>
+        <input type="number" name="width" placeholder="e.g. 800">
+        <label>Max Height (optional):</label>
+        <input type="number" name="height" placeholder="e.g. 800">
+        <button type="submit">Fetch & Download</button>
+    </form>
+
+    <footer class="text-center mt-4">
+        <small>Powered by <strong>Himanshu Garg</strong> — Attribution required for public use.</small>
+    </footer>
+</body>
+</html>
