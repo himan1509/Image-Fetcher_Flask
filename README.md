@@ -17,10 +17,11 @@ Built with ❤️ by **Himanshu Garg**.
 
   1. Install Dependencies
   Make sure you have Python 3.8+ installed.
-  pip install -r requirements.txt
+    Command to use :-  
+    pip install -r requirements.txt
   
-  2. Run python app.py
-  Then open your browser and go to: http://127.0.0.1:5000
+  2. Run python app.py  
+    Then open your browser and go to: http://127.0.0.1:5000
 
 ## Usage
 - Enter a website URL.
